@@ -3,4 +3,5 @@
 ## 💼 Sobre
 
 ** Profissão: ** Funcionário Público
+** Hobby: ** Astronomia
 
